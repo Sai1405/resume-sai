@@ -31,4 +31,4 @@
 - Python - 40%
 
 **Goals**
-- life settle
+- Own company
